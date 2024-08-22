@@ -1,3 +1,5 @@
 # compiled files and test cases
 a.out
 test*
+
+.vscode*
